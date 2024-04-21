@@ -1,0 +1,26 @@
+:root {
+    --color-444444: #444444;
+    --color-f44236: #f44236;
+    --color-ffffff: #ffffff;
+}
+
+button {
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    background-color: var(--color-f44236);
+    border: none;
+    color: var(--color-ffffff);
+    opacity: 0.9;
+    border-radius: 5px;
+    flex: 1;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+#id_clear_button {
+    background-color: var(--color-444444);
+}
