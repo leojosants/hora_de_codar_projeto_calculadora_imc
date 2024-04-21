@@ -8,4 +8,12 @@ Os cálculos são realizados a partir da `altura` e do `peso`.
 
   - `npm install`
   
-  - `npm run dev` 
+  - `npm run dev`
+
+### Recursos utilizados
+
+  - HTML
+  - CSS
+  - React JS
+  - Vite
+  - VSCode
