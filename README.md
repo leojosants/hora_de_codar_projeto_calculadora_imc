@@ -6,6 +6,8 @@ Os cálculos são realizados a partir da `altura` e do `peso`.
 
 ### Executando aplicação
 
+  - `cd calculadora-imc`
+  
   - `npm install`
   
   - `npm run dev`
